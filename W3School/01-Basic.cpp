@@ -12,6 +12,6 @@ int main() {
     cin >> lastName;
     cout << "Hello " << name << " " << lastName << "!" << '\n';
     cin >> age;
-
+    cout << "You are " << age << " years old." << '\n';
     return 0;
 }
