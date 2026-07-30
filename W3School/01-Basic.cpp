@@ -11,7 +11,7 @@ int main() {
     cout << "What is your last name? \n" ;
     cin >> lastName;
     cout << "Hello " << name << " " << lastName << "!" << '\n';
-    cin << age;
-    
+    cin >> age;
+
     return 0;
 }
