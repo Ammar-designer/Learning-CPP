@@ -19,7 +19,12 @@ void moo() {
     cout << "End Of moo()" << '\n';
 }
 
-
+//Function With Parameters And Arguments'
+void bar(int a, int b) {
+    cout << "a = " << a << '\n';
+    cout << "b = " << b << '\n';
+    cout << "a + b = " << a + b << '\n';
+}
 
 int main() {
     cout << "Start Of main()" << '\n';
@@ -27,5 +32,6 @@ int main() {
     cout << "End Of main()" << '\n';
     //Prints The Value Returned By The Function baz()
     cout << "Value Returned By baz() Is: " << baz() << '\n';
+    bar(5, 10);                         //Invokes The Function bar()
     return 0;
 }
