@@ -5,10 +5,13 @@ using namespace std;
 
 int main() {
     string name {}, lastName {};
+    int age {};
     cout << "What is your name? ";
     cin >> name ; 
     cout << "What is your last name? \n" ;
     cin >> lastName;
     cout << "Hello " << name << " " << lastName << "!" << '\n';
+    cin << age;
+    
     return 0;
 }
