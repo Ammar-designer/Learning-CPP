@@ -12,6 +12,7 @@ int main() {
     double weight {99.5};
     char gender {'M'};
     bool isStudent {true};
+    cout << "Welcome to C++ " << name << '\n';
     cout << "Name: " << name << '\n';
     cout << "Age: " << age << '\n';
     cout << "Height: " << height << '\n';
