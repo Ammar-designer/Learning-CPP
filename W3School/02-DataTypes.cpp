@@ -22,5 +22,9 @@ int main() {
     cout << sizeof(b) << '\n';
     cout << sizeof(age) << '\n';
     cout << sizeof(height) << '\n';
+    cout << sizeof(weight) << '\n';
+    cout << sizeof(gender) << '\n';
+    cout << sizeof(isStudent) << '\n';
+    cout << sizeof(name) << '\n';
     return 0;
 }
