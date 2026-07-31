@@ -13,5 +13,7 @@ int main() {
     cout << "Hello " << name << " " << lastName << "!" << '\n';
     cin >> age;
     cout << "You are " << age << " years old." << '\n';
+    string fullName = name + " " + lastName;
+
     return 0;
 }
