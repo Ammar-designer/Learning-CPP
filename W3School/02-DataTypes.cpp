@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     string name = "Baymax";
     int a {5};
-    int b ;
+    int b {};
     int age {20};
     float height {1.94};
     double weight {99.5};
@@ -20,5 +20,7 @@ int main() {
     cout << "Gender: " << gender << '\n';
     cout << "Is Student: " << isStudent << '\n';
     cout << sizeof(b) << '\n';
+    cout << sizeof(age) << '\n';
+    cout << sizeof(height) << '\n';
     return 0;
 }
