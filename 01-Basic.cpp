@@ -4,11 +4,11 @@
 using namespace std;
 
 int main() {
-    string name, lastName;
+    string name {}, lastName {};
     cout << "What is your name? ";
     cin >> name ; 
-    cout << "What is your last name? ";
+    cout << "What is your last name? \n" ;
     cin >> lastName;
-    cout << "Hello " << name << " " << lastName << "!" << endl;
+    cout << "Hello " << name << " " << lastName << "!" << '\n';
     return 0;
 }
