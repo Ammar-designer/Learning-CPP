@@ -17,4 +17,3 @@ int main() {
     cout << "Gender: " << gender << endl;
     return 0;
 }
-
