@@ -26,7 +26,13 @@ void bar(int a, int b) {
     cout << "a + b = " << a + b << '\n';
 }
 
+//Functions Can Have Unnamed Parameters
+void hi(string ) {
+    cout << "Hello World" << '\n';
+}
+
 int main() {
+    hi("Hello");                        //Invokes The Function hi()
     cout << "Start Of main()" << '\n';
     moo();                              //Invokes The Function moo()
     cout << "End Of main()" << '\n';
