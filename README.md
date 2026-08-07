@@ -21,14 +21,16 @@ This repository is built to keep my C++ learning materials organized and easily 
 To run any of the C++ files in this repository locally, you will need a C++ compiler (such as **GCC** or **Clang**) installed on your machine.
 
 **1. Clone the repository:**
-bash
+```bash
 git clone https://github.com/baymaxdev/Learning-CPP.git
 cd Learning-CPP
+```
 
 
 **2. Compile a specific C++ file:**
-bash
-```g++ filename.cpp -o output_name```
+  ```bash
+  g++ filename.cpp -o output_name
+  ```
 
 
 **3. Run the compiled executable:**
