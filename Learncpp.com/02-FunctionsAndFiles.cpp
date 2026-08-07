@@ -9,7 +9,7 @@ int baz() {
 
 //Non-Value Returning Function
 void foo() {
-    cout << "In foo()" << '\n';
+    cout << "In foo()" << '\n'; 
 }
 
 //Function Inside a Function
@@ -27,7 +27,7 @@ void bar(int a, int b) {
 }
 
 //Functions Can Have Unnamed Parameters
-void hi(string ) {
+void hi(string ) { // Unnamed Paramters Can Not Be Used but Are There if You Want To
     cout << "Hello World" << '\n';
 }
 
