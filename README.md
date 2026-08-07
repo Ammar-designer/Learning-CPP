@@ -28,7 +28,7 @@ cd Learning-CPP
 
 **2. Compile a specific C++ file:**
 bash
-g++ filename.cpp -o output_name
+```g++ filename.cpp -o output_name```
 
 
 **3. Run the compiled executable:**
