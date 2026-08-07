@@ -35,13 +35,13 @@ cd Learning-CPP
 
 **3. Run the compiled executable:**
 *   **On Windows:** 
-    ```cmd
-    .\output_name.exe
-    ```
+```cmd
+.\output_name.exe
+```
 *   **On macOS/Linux:** 
-    ```bash
-    ./output_name
-    ```
+```bash
+./output_name
+```
 
 ---
 
