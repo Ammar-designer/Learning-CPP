@@ -16,7 +16,7 @@ This repository is built to keep my C++ learning materials organized and easily 
 
 ---
 
-## <a href="#readme"><img src="./styling-assets/terminal.svg" width="26" height="26" align="center" style="transform: translateY(2px);"> </a> How to Compile and Run
+## <a href="#readme"><img src="./styling-assets/terminal.svg" width="26" height="26" align="top" style="transform: translateY(2px);"> </a> How to Compile and Run
 
 To run any of the C++ files in this repository locally, you will need a C++ compiler (such as **GCC** or **Clang**) installed on your machine.
 
