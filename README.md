@@ -1,4 +1,4 @@
-# Learning-CPP 🚀
+# <img src="https://icongr.am/fontawesome/code.svg?size=128&color=00599C" width="34" height="34" align="top" style="transform: translateY(4.5px);"> Learning-CPP
 
 > A personal repository dedicated to my journey of learning and practicing C++ programming.
 
@@ -6,7 +6,7 @@ Welcome to the **Learning-CPP** repository! This space serves as an archive for 
 
 ---
 
-## 📁 Repository Overview
+## <img src="https://icongr.am/fontawesome/folder.svg?size=128&color=00599C" width="26" height="26" align="top" style="transform: translateY(3px);"> Repository Overview
 
 This repository is built to keep my C++ learning materials organized and easily accessible. Inside, you will find:
 
@@ -16,7 +16,7 @@ This repository is built to keep my C++ learning materials organized and easily 
 
 ---
 
-## 🛠️ How to Compile and Run
+## <img src="https://icongr.am/fontawesome/terminal.svg?size=128&color=00599C" width="26" height="26" align="top" style="transform: translateY(2px);"> How to Compile and Run
 
 To run any of the C++ files in this repository locally, you will need a C++ compiler (such as **GCC** or **Clang**) installed on your machine.
 
