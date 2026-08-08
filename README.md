@@ -1,4 +1,4 @@
-# <img src="./styling-assets/code.svg" width="34" height="34" align="top" style="transform: translateY(1.6px);"> Learning-CPP
+# <a href="#readme"><img src="./styling-assets/code.svg" width="34" height="34" align="top" style="transform: translateY(0px);"> </a> Learning-CPP
 
 > A personal repository dedicated to my journey of learning and practicing C++ programming.
 
@@ -6,7 +6,7 @@ Welcome to the **Learning-CPP** repository! This space serves as an archive for 
 
 ---
 
-## <img src="./styling-assets/folder.svg" width="26" height="26" align="top" style="transform: translateY(-0.7px);"> Repository Overview
+## <a href="#readme"><img src="./styling-assets/folder.svg" width="26" height="26" align="top" style="transform: translateY(0px);"> </a> Repository Overview
 
 This repository is built to keep my C++ learning materials organized and easily accessible. Inside, you will find:
 
@@ -16,7 +16,7 @@ This repository is built to keep my C++ learning materials organized and easily 
 
 ---
 
-## <img src="./styling-assets/terminal.svg" width="26" height="26" align="top" style="transform: translateY(-.5px);"> How to Compile and Run
+## <img src="./styling-assets/terminal.svg" width="26" height="26" align="top" style="transform: translateY(0px);"> How to Compile and Run
 
 To run any of the C++ files in this repository locally, you will need a C++ compiler (such as **GCC** or **Clang**) installed on your machine.
 
